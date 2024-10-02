@@ -6,7 +6,7 @@ custom_imports = dict(
         "mmpretrain.models",
     ],
 )
-data_root = "data/DataSet2/"
+data_root = "data/ORaph8K/"
 dataset_type = "CocoDataset"
 default_hooks = dict(
     checkpoint=dict(
