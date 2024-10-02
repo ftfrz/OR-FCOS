@@ -6,6 +6,8 @@ Code for the paper "An Enhanced Fully Convolutional One-Stage Approach for Objec
 
 ## Dataset Access
 
+The dataset is uploading and will be publicly available soon.
+
 To use the data to train our model, first create a folder named 'data' and unzip the ORaph8K.zip.
 
 ## Installation
