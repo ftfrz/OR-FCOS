@@ -56,5 +56,5 @@ After installation, the folders should be structured as follows :
 
 ## Training
 
-Place the `OR_FCOS.py` file in this repository to the folder `mmdetection/configs` , then use `mmdetection/train.py`to train.
+Place the `OR_FCOS.py` file in this repository to the folder `mmdetection/configs` , then use `mmdetection/tools/train.py`to train.
 
